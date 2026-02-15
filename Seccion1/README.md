@@ -81,9 +81,9 @@ Se agregaron los argumentos ``format='mixed'`` y ``errors = 'coerce'`` en ``pd.t
 
 ## Diagrama de base de datos
 
-![This is an alt text.](/Images/DiagramaBD.jpeg)
+![This is an alt text.](/Seccion1/Images/DiagramaBD.jpeg)
 
 ## Vista en base de datos
 
-![This is an alt text.](/Images/SS_VIEW.png)
+![This is an alt text.](/Seccion1/Images/SS_VIEW.png)
 
