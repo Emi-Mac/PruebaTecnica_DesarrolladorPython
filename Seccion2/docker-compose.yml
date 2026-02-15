@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  numfalt:
+    build: .
+    container_name: numfalt_process
+    ports:
+        - "8000:8000"
